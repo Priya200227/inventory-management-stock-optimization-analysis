@@ -160,3 +160,4 @@ Despite these limitations, the project demonstrates inventory diagnostics and de
 This project showcases how **structured analysis, correct KPIs, and business-focused interpretation** can uncover hidden inefficiencies in inventory operations. The emphasis is on decision-making impact rather than tools alone—an essential skill set for data analysts in supply chain and retail analytics.
 
 
+
